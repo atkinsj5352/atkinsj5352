@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atkinsj5352
 - 👀 I’m interested in engineering, robotics, coding, AI
-- 🌱 I’m currently learning web programming, C++, Operating Systems, Precalculus, Microeconomics 
+- 🌱 I’m currently learning Java programming, Chemistry, Engish & Writing, and Computers
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, atkinsj5352@student.faytechcc.edu
 
