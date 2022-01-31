@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atkinsj5352
+- 👋 Hi, I’m James
 - 👀 I’m interested in engineering, robotics, coding, AI
 - 🌱 I’m currently learning Java programming, Chemistry, Engish & Writing, and Computers
 - 💞️ I’m looking to collaborate on ...
