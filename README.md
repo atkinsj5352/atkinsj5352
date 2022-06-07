@@ -1,6 +1,6 @@
-- 👋 Hi, I’m James
+- 👋 Hello, I’m James
 - 👀 I’m interested in engineering, robotics, coding, AI
-- 🌱 I’m currently learning Java programming, Chemistry, Engish & Writing, and Computers
+- 🌱 I will soon start learning about Solidworks, AutoCAD, and Electronics 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, atkinsj5352@student.faytechcc.edu
 
